@@ -8,7 +8,7 @@ The repo is a complement to the official repo. There are three differences:
 
 
 
-![conv_ops](./images/1122.gif)
+![conv_ops](result.gif)
 
 
 ## Step 1: Prepare serialized engine file
